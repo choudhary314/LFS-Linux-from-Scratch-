@@ -1,7 +1,7 @@
 lsi: false
 safe: true
-title: [Projects Blog]
-description: [Here are all the projects I have been working on recently]
+title: Projects Blog
+description: Here are all the projects I have been working on recently
 source: https://github.com/choudhary314/choudhary314.github.io
 incremental: false
 highlighter: rouge
