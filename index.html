@@ -3,3 +3,7 @@ layout: post
 title: Digital Resume
 ---
 Tarun Choudhary
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
