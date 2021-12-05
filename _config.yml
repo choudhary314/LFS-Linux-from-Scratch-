@@ -1,5 +1,7 @@
 lsi: false
 safe: true
+title: [Recent Projects]
+description: [Here are all the projects I have been working on recently]
 source: https://github.com/choudhary314/choudhary314.github.io
 incremental: false
 highlighter: rouge
