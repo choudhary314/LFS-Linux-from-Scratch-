@@ -10,3 +10,5 @@ kramdown:
   syntax_highlighter: rouge
 
 theme: jekyll-theme-hacker
+plugins:
+  - "jekyll-github-metadata"
